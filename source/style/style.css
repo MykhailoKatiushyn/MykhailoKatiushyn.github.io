@@ -1,0 +1,20 @@
+body {
+}
+.nav-logo {
+  width: 50px;
+  border-radius: 6px;
+}
+.nav-link {
+  font-size: 1.05rem;
+  font-weight: 500;
+  color: #ff3131;
+}
+.nav-link:hover {
+  color: #b62424;
+}
+.navbar-toggler {
+  color: #ff3131;
+}
+.navbar-toggler {
+  background-color: #b62424;
+}
